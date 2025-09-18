@@ -1,2 +1,2 @@
-Hello, world!
--> [My publication](Publication.md)
+Hello, world!  
+👉 [My publication](Publication.md)
