@@ -1,4 +1,9 @@
-## International Conferences
+## Journal Paper
+- **Ayako Yamamoto**, Fuki Miyazaki, and Toshio Irino,
+  "Predicting speech intelligibility in older adults for speech enhancement using the Gammachirp Envelope Similarity Index, GESI,"  
+  *Speech Communication*, Vol. 175, 103318, Nov. 2025. accepted: 12 Oct 2025 [DOI: 10.1016/j.specom.2025.103318].
+
+## International Conferences with Review
 
 1. **Ayako Yamamoto**, Toshio Irino, and Fuki Miyazaki,  
    "Speech intelligibility experiments and objective prediction with simulated hearing loss sounds  to separate the effects of peripheral function from higher-level processes,"  
