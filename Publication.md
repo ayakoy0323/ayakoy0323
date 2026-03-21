@@ -13,16 +13,16 @@
    "Impact of Residual Noise and Artifacts in Speech Enhancement Errors on Intelligibility of Human and Machine,"  
    *Proc. INTERSPEECH 2023*, pp.2503-2507,  
    Dublin, Ireland, 20-24 August 2023
-3. **Ayako Yamamoto**, Toshio Irino, Shoko Araki, Kenichi Ara, Atsunori Ogawa, KeisukeKinoshita, and Tomohiro Nakatani,  
-   ”Effective data screening technique for crowdsourced speech intelligibility experiments: Evaluation with IRM-based speech enhancement,”  
+3. **Ayako Yamamoto**, Toshio Irino, Shoko Araki, Kenichi Arai, Atsunori Ogawa, KeisukeKinoshita, and Tomohiro Nakatani,  
+   "Effective data screening technique for crowdsourced speech intelligibility experiments: Evaluation with IRM-based speech enhancement,”  
    *Proc.APSIPA ASC 2022*, pp.1402–1408,  
    Chiang Mai, Thailand, 7–10 November 2022.
-4. Toshio Irino, Honoka Tamaru, **Ayako Yamamoto**,  
-   ”Speech intelligibility of simulated hearing loss sounds and its prediction using the Gammachirp Envelope Similarity Index (GESI) ,”  
+4. Toshio Irino, Honoka Tamaru, and **Ayako Yamamoto**,  
+   "Speech intelligibility of simulated hearing loss sounds and its prediction using the Gammachirp Envelope Similarity Index (GESI),”  
    *Proc. INTERSPEECH 2022*, pp.3929–3933,  
    Incheon, Korea, 18–22 September 2022.
-5. **Ayako Yamamoto**, Toshio Irino, Kenichi Arai, Shoko Araki, Atsunori Ogawa, Keisuke Kinoshita, Tomohiro Nakatani,  
-   ”Comparison of Remote Experiments Using Crowdsourcingand Laboratory Experiments on Speech Intelligibility,”  
+5. **Ayako Yamamoto**, Toshio Irino, Kenichi Arai, Shoko Araki, Atsunori Ogawa, Keisuke Kinoshita, and Tomohiro Nakatani,  
+   "Comparison of Remote Experiments Using Crowdsourcingand Laboratory Experiments on Speech Intelligibility,”  
    *Proc. INTERSPEECH 2021*, pp.181–185,  
    Brno, Czech Republic & online, 30 August–3 September 2021.
 
